@@ -16,8 +16,8 @@
  Example usage:
  
  @code
- NSInteger newInteger = [calc increaseNumberBy1:6];
- // newInteger is 7.
+ NSInteger newInteger = [calc increaseNumberBy1:8];
+ // newInteger is 9.
  @endcode
  
  @param number
